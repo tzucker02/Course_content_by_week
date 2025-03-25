@@ -87,7 +87,14 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 9.1 | [Aggregation and Grouoping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 9.1 | [Palmer Penguins data access](https://allisonhorst.github.io/palmerpenguins/) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 9.1 | [Original Source of Palmer Penguins database](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.4 | [Python Data Science Handbook, Chapter 3.12, High-Performance Pandas: eval() and query()](https://jakevdp.github.io/PythonDataScienceHandbook/03.12-performance-eval-and-query.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.4 | [Pandas DataFrame query documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.query.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.4 | [Pandas.eval documentation](https://pandas.pydata.org/docs/reference/api/pandas.eval.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.4 | [Pandas documentation about enhancing performance](https://pandas.pydata.org/docs/user_guide/enhancingperf.html#expression-evaluation-via-eval) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.4 | [XKCD comic: Exploits of a Mom](https://xkcd.com/327/) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
