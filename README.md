@@ -106,9 +106,9 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 10.3 | [Pandas.plotting.scatter_matrix — pandas 2.2.2 documentation](https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.3 | [lotting — pandas 2.2.2 documentation](https://pandas.pydata.org/docs/reference/plotting.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.3 | [Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis) PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.4 | [Pandas User Guide, Working with missing data](https://pandas.pydata.org/docs/user_guide/missing_data.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.4 | [Exploratory Data Analysis](https://www.epa.gov/caddis/exploratory-data-analysis) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
