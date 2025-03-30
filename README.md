@@ -108,9 +108,9 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 10.3 | [Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis) PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.4 | [Pandas User Guide, Working with missing data](https://pandas.pydata.org/docs/user_guide/missing_data.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.4 | [Exploratory Data Analysis](https://www.epa.gov/caddis/exploratory-data-analysis) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.5 | [Fundamentals of Data Visualization, Chapter 12: Visualizing Associations Among Two Or More Quantitative Variables](https://clauswilke.com/dataviz/visualizing-associations.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.6 | [Detecting Defect Segments By The Laplace Smoothing](https://medium.com/@uriitai/detecting-defect-segments-by-the-laplace-smoothing-dc3a52333c2a) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 -->
