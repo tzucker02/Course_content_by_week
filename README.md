@@ -99,14 +99,14 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 9.5 ref#2| [Pandas User Guide - Duplicate labels](https://pandas.pydata.org/docs/user_guide/duplicates.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 9.5 ref#3| [Pandas User Guide - Reshaping and Pivot tables](https://pandas.pydata.org/docs/user_guide/reshaping.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 9.5 ref#4| [Pandas Documentation - Merge, Join, Concatenate and Compare](https://pandas.pydata.org/docs/user_guide/merging.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| 9.7 | [Pandas Reshaping from homework](https://pandas.pydata.org/docs/user_guide/reshaping.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 9.7 | [Pandas Reshaping from homework](https://pandas.pydata.org/docs/user_guide/reshaping.html) | 2025-03-25 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+<a name="602Week10">Week 10</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) | [Podcast for Week 10]() |
+| 10.1 | [Pandas User Guide, Chart visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.3 | [Chart Visualizations](https://pandas.pydata.org/docs/user_guide/visualization.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.3 | [Pandas.plotting.scatter_matrix — pandas 2.2.2 documentation](https://pandas.pydata.org/docs/reference/api/pandas.plotting.scatter_matrix.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.3 | [lotting — pandas 2.2.2 documentation](https://pandas.pydata.org/docs/reference/plotting.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 10.3 | [Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis) PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090081) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
