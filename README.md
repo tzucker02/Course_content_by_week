@@ -116,7 +116,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 -->
 
 # Course Links for DX699
-[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br><a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a></br>
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br><a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a>,<a href="#699week10">Week 10</a></br>
 | Course/Week | File Link | Date Added | Type | Description |
 |---|---|---|---|---|
 | <a name="699Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
@@ -133,10 +133,10 @@ Here, I have tried to list all the content from each course by each week. If I h
 | <a name="699Week9">Week 9</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
 | 9.1 | [Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking, Chapter 6: Similarity, Neighbors, and Clusters ](https://github.com/tzucker02/Data-science-readings/raw/main/Boston%20University/Full%20Texts/data%20science%20for%20business.pdf) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | 9.1 | [K-Nearest Neighbor Algorithm. ](https://www.kaggle.com/code/just4jcgeorge/k-nearest-neighbour-algorithm) | 2025-03-22 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| <a name="699Week10">Week 10</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX699 top)</a>](#course-links-for-dx699) |
+| 10.1 | [Data Science for Business](https://github.com/tohweizhong/pdf-dump/blob/master/01%20Books/data%20science%20for%20business.pdf) | 2025-04-03 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 10.1 | [Intelligibility Is a Key Component to Trust in Machine Learning](https://www.borealisai.com/research-blogs/intelligibility-key-component-trust-machine-learning) | 2025-04-03 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 <!--
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
-| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 -->
