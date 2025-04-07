@@ -13,7 +13,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a></br>
+<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a></br>
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
 | <a name="602Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |
@@ -110,7 +110,17 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 10.4 | [Exploratory Data Analysis](https://www.epa.gov/caddis/exploratory-data-analysis) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.5 | [Fundamentals of Data Visualization, Chapter 12: Visualizing Associations Among Two Or More Quantitative Variables](https://clauswilke.com/dataviz/visualizing-associations.html) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 10.6 | [Detecting Defect Segments By The Laplace Smoothing](https://medium.com/@uriitai/detecting-defect-segments-by-the-laplace-smoothing-dc3a52333c2a) | 2025-03-30 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+<a name="602Week11">Week 11</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) | |
+| 11.1 | [Object-Oriented Programming in 7 Minutes (7:33)](https://www.youtube.com/watch?v=pTB0EiLXUC8) | 2025-04-07 | <img src="https://files.softicons.com/download/social-media-icons/ios-7-style-social-media-icons-by-design-bolts/ico/YouTube.ico" height="30" width="30"></a>  |
 <!--
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 -->
