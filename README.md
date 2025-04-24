@@ -13,7 +13,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a></br>
+<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a>, <a href="#602week12">week 12</a></br>
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
 | <a name="602Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |
@@ -132,9 +132,24 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 11.6 | [Python Data Science Handbook, Chapter 5.9: Principal Component Analysis](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html) | 2025-04-07 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | <a name="602Week12">Week 12</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |  |
 | 12.1 | [Scikit-learn User Guide, Metrics and Scoring: Quantifying the Quality of Predictions](https://scikit-learn.org/stable/modules/model_evaluation.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-<!--
 | 12.1 | [cikit-learn User Guide, Linear Models](https://scikit-learn.org/stable/modules/linear_model.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| 12.1 ref | [scikit-learn API reference, sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.1 ref | [scikit-learn API reference, sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.2 | [A Modern Take on the Bias-Variance Tradeoff in Neural Networks](https://arxiv.org/abs/1810.08591) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 | [Predicting Good Probabilities With Supervised Learning (PDF)](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 | [Scikit-learn User Guide, Probability Calibration](https://scikit-learn.org/stable/modules/calibration.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 | [Scikit-learn User Guide, Isotonic Regression](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_isotonic_regression.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 opt | [On the Combination of Forecast Probabilities for Consecutive Precipitation Periods](https://journals.ametsoc.org/view/journals/wefo/5/4/1520-0434_1990_005_0640_otcofp_2_0_co_2.xml) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 ref | [scikit-learn API reference, sklearn.calibration.CalibratedClassifierCV](https://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.3 ref | [scikit-learn API reference, sklearn.isotonic.IsotonicRegression](https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.IsotonicRegression.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.5 opt | [Overfitting, Underfitting, and Bad Data are Ruining your Predictive Models (6:49)](https://www.youtube.com/watch?v=0RT2Q0qwXSA) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.5 opt | [Understanding Deep Learning Requires Rethinking Generalization.](https://arxiv.org/pdf/1611.03530) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.6 | [Mathematics for Machine Learning, Chapter 8-8.6.1, Model Selection](https://mml-book.github.io/book/mml-book.pdf) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.6 opt | [MFML 064 - What is a holdout set and how do you use it? (1:46)](https://www.youtube.com/watch?v=CpFEdDjOHdY&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=65) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+<!--
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
