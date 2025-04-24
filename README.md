@@ -152,7 +152,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 12.7 | [Scikit-learn User Guide, Cross-Validation: Evaluating Estimator Performance](https://scikit-learn.org/stable/modules/cross_validation.html) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 12.7 opt | [Understanding k-fold Cross-Validation (4:40)](https://www.youtube.com/watch?v=zqD0lQy_w40&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=66) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 12.7 opt | [Model Validation Done Right (5:34)](https://www.youtube.com/watch?v=eRiXR_tSg0E&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=70) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
-| 12.8 | [What's the difference between testing and validation?"](https://www.youtube.com/watch?v=-yda0fNYYG8) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| 12.8 | ["What's the difference between testing and validation?"](https://www.youtube.com/watch?v=-yda0fNYYG8) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 <!--
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
