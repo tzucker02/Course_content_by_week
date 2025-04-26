@@ -13,7 +13,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
-<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a>, <a href="#602week12">week 12</a></br>
+<a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a>, <a href="#602week12">week 12</a>, <a href="#602week13">week 13</a></br>
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
 | <a name="602Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |
@@ -153,6 +153,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 | 12.7 opt | [Understanding k-fold Cross-Validation (4:40)](https://www.youtube.com/watch?v=zqD0lQy_w40&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=66) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 12.7 opt | [Model Validation Done Right (5:34)](https://www.youtube.com/watch?v=eRiXR_tSg0E&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=70) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 12.8 | ["What's the difference between testing and validation?"](https://www.youtube.com/watch?v=-yda0fNYYG8) | 2025-04-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+| <a name="602Week13">Week 13</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |  |
 | 13.1 | [Pandas User Guide, Working with Missing Data](https://pandas.pydata.org/docs/user_guide/missing_data.html) | 2025-04-26 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 13.1 opt | [Data Quality Explained (3:53)](https://www.youtube.com/watch?v=5HcDJ8e9NwY) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | 13.1 ref | [pandas API reference, pandas.isna](https://pandas.pydata.org/docs/reference/api/pandas.isna.html) | 2025-04-26 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
