@@ -35,6 +35,12 @@ Here, I have tried to list all the content from each course by each week. If I h
 |  2.2 opt |[Array Bisection Algorithm](https://docs.python.org/3/library/bisect.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  2.2 ref |[Python library reference, Sequence Types — list, tuple, range](https://docs.python.org/3.12/library/stdtypes.html#sequence-types-list-tuple-range) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  2.2 ref |[Python library reference, Array Bisection Algorithm](https://docs.python.org/3/library/bisect.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  2.3 | [Shallow and Deep Copy Operations](https://docs.python.org/3/library/copy.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  2.3 |[Python Names and Values](https://nedbatchelder.com/text/names1.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  2.3 opt |[Python Hash Sets Explained & Demonstrated - Computerphile (18:38)](https://www.youtube.com/watch?v=9oKpRTBfNXo) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
