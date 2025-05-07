@@ -46,6 +46,14 @@ Here, I have tried to list all the content from each course by each week. If I h
 |  3.2 opt |[Python Booleans - Python Tutorial - Learn Python Programming (4:39)](https://www.youtube.com/watch?v=9OK32jb_TdI) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  3.3 | [Loop Like A Native (29:15)](https://nedbatchelder.com/text/iter.html) <b>EXCELLENT! | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 | <a name="602Week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |
+|  4.2 | [https://pyformat.info/](https://pyformat.info/) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.2 | [re —Regular Expression Library](https://docs.python.org/3/library/re.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.3 |[A Whirlwind Tour of Python, Chapter 5: String Type](https://jakevdp.github.io/WhirlwindTourOfPython/05-built-in-scalar-types.html#String-Type) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.3 | [Python Strings (3:23)](https://www.youtube.com/watch?v=iAzShkKzpJo) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.3 opt | [All 47 String Methods In Python Explained (23:33)](https://www.youtube.com/watch?v=bnSYeYFRCaA) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.3 ref | [String Methods to Know](https://docs.python.org/3/library/stdtypes.html#string-methods) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  4.6 opt | [Generators in Python - Python Tutorial - Learn Python Programming (8:32)](https://www.youtube.com/watch?v=gMompY5MyPg) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+| 4.6 opt  | [A Whirlwind Tour of Python, Chapter 13, Generators and Generator Expressions](https://jakevdp.github.io/WhirlwindTourOfPython/12-generators.html) | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 | <a name="602Week5">Week 5</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX602 top)</a>](#course-links-for-dx602) |
 | 5.2 | [Pyhton Data Science Handbook Chapter 4.1](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 | 5.2 | [Matplotlib quickstart guide](https://matplotlib.org/stable/users/explain/quick_start.html) | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
@@ -205,6 +213,16 @@ Here, I have tried to list all the content from each course by each week. If I h
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
 | | []() | 2025-02-24 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
+|  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 -->
