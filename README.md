@@ -5,8 +5,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 ## Table of Contents
-NOTE: Fall 2025 Semester = January - April 2025
-      Spring 2025 Semester = August - December 2025
+NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - April 2025<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2025 Semester = August - December 2025
 - [ Course Links for DX601 - Fall 2025](#course-links-for-dx601)
 - [ Course Links for DX602 - Spring 2025](#course-links-for-dx602)
 - [ Course Links for DX699 - Spring 2025](#course-links-for-dx699)
