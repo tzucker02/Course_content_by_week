@@ -16,7 +16,12 @@ Here, I have tried to list all the content from each course by each week. If I h
 <a href="#601week1">Week 1</a>, <a href="#601week2">Week 2</a>, <a href="#601week3">Week 3</a>, <a href="#601week4">Week 4</a>, <a href="#601week5">Week 5</a>, <a href="#601week6">Week 6</a>, <a href="#601week7">Week 7</a>, <a href="#601week8">week 8</a>, <a href="#601week9">week 9</a>, <a href="#601week10">week 10</a>, <a href="#601week11">week 11</a>, <a href="#601week12">week 12</a>, <a href="#601week13">week 13</a>, <a href="#601week14">week 14</a></br>
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
-| <a name="602Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week2">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week3">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week5">Week 5</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| <a name="601Week6">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
 # Course Links for DX701
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 <a href="#701week1">Week 1</a>, <a href="#701week2">Week 2</a>, <a href="#701week3">Week 3</a>, <a href="#701week4">Week 4</a>, <a href="#701week5">Week 5</a>, <a href="#701week6">Week 6</a>, <a href="#701week7">Week 7</a>, <a href="#701week8">week 8</a>, <a href="#701week9">week 9</a>, <a href="#701week10">week 10</a>, <a href="#701week11">week 11</a>, <a href="#701week12">week 12</a>, <a href="#701week13">week 13</a>, <a href="#701week14">week 14</a></br>
