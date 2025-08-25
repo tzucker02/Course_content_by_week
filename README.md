@@ -5,7 +5,7 @@ Here, I have tried to list all the content from each course by each week. If I h
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
 ## Table of Contents
-- [ Course Links for DX601(#course-links-for-dx601)
+- [ Course Links for DX601](#course-links-for-dx601)
 - [ Course Links for DX602](#course-links-for-dx602)
 - [ Course Links for DX699](#course-links-for-dx699)
 - [ Course Links for DX701](#course-links-for-dx701)
