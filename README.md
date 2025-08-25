@@ -56,6 +56,12 @@ NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - Ap
 | <a name="701Week12">Week 12</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
 | <a name="701Week13">Week 13</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
 | <a name="701Week14">Week 14</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
+<!--
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+-->
 # Course Links for DX602
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
 <a href="#602week1">Week 1</a>, <a href="#602week2">Week 2</a>, <a href="#602week3">Week 3</a>, <a href="#602week4">Week 4</a>, <a href="#602week5">Week 5</a>, <a href="#602week6">Week 6</a>, <a href="#602week7">Week 7</a>, <a href="#602week8">week 8</a>, <a href="#602week9">week 9</a>, <a href="#602week10">week 10</a>, <a href="#602week11">week 11</a>, <a href="#602week12">week 12</a>, <a href="#602week13">week 13</a>, <a href="#602week14">week 14</a></br>
