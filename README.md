@@ -280,6 +280,31 @@ NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - Ap
 | | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 -->
+# Course Links for DX604
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+<a href="#604week1">Week 1</a>, <a href="#604week2">Week 2</a>, <a href="#604week3">Week 3</a>, <a href="#604week4">Week 4</a>, <a href="#604week5">Week 5</a>, <a href="#604week6">Week 6</a>, <a href="#604week7">Week 7</a>, <a href="#604week8">week 8</a>, <a href="#604week9">week 9</a>, <a href="#604week10">week 10</a>, <a href="#604week11">week 11</a>, <a href="#604week12">week 12</a>, <a href="#604week13">week 13</a>, <a href="#604week14">week 14</a></br>
+| Course/Week | Link | Date Added | Type | 
+|----------|---|---|---|
+| <a name="604week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week2">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week3">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week5">Week 5</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week6">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week7">Week 7</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week8">Week 8</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week9">Week 9</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week10">Week 10</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week11">Week 11</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week12">Week 12</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week13">Week 13</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+| <a name="604week14">Week 14</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX604 top)</a>](#course-links-for-DX604) |
+<!--
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+-->
 # Course Links for DX699
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br><a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a>,<a href="#699week10">Week 10</a>,<a href="#699week11">Week 11</a>,<a href="#699week12">Week 12</a>,<a href="#699week13">Week 13</a>,<a href="#699week14">Week 14</a></br>
 | Course/Week | File Link | Date Added | Type | Description |
