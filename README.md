@@ -8,6 +8,8 @@ Here, I have tried to list all the content from each course by each week. If I h
 NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - April 2025<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2025 Semester = August - December 2025
 - [ Course Links for DX601 - Fall 2025](#course-links-for-dx601)
 - [ Course Links for DX602 - Spring 2025](#course-links-for-dx602)
+- [ Course Links for DX603](#course-links-for-dx603)
+- [ Course Links for DX604](#course-links-for-dx604)
 - [ Course Links for DX699 - Spring 2025](#course-links-for-dx699)
 - [ Course Links for DX701 - Fall 2025](#course-links-for-dx701)
 - [ Capstone Methods](#capstone-methods)
@@ -253,7 +255,31 @@ NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - Ap
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 |  |[]() | 2025-05 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  | 
 -->
-
+# Course Links for DX603
+[<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br>
+<a href="#603week1">Week 1</a>, <a href="#603week2">Week 2</a>, <a href="#603week3">Week 3</a>, <a href="#603week4">Week 4</a>, <a href="#603week5">Week 5</a>, <a href="#603week6">Week 6</a>, <a href="#603week7">Week 7</a>, <a href="#603week8">week 8</a>, <a href="#603week9">week 9</a>, <a href="#603week10">week 10</a>, <a href="#603week11">week 11</a>, <a href="#603week12">week 12</a>, <a href="#603week13">week 13</a>, <a href="#603week14">week 14</a></br>
+| Course/Week | Link | Date Added | Type | 
+|----------|---|---|---|
+| <a name="603Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week2">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week3">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week5">Week 5</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week6">Week 6</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week7">Week 7</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week8">Week 8</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week9">Week 9</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week10">Week 10</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week11">Week 11</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week12">Week 12</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week13">Week 13</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+| <a name="603Week14">Week 14</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX603 top)</a>](#course-links-for-dx603) |
+<!--
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| | []() | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+-->
 # Course Links for DX699
 [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35"></a>](#Top)</br><a href="#699week1">Week 1</a>, <a href="#699week2">Week 2</a>,<a href="#699week3">Week 3</a>,<a href="#699week4">Week 4</a>,<a href="#699week5">Week 5</a>,<a href="#699week6">Week 6</a>,<a href="#699week7">Week 7</a>,<a href="#699week8">Week 8</a>,<a href="#699week9">Week 9</a>,<a href="#699week10">Week 10</a>,<a href="#699week11">Week 11</a>,<a href="#699week12">Week 12</a>,<a href="#699week13">Week 13</a>,<a href="#699week14">Week 14</a></br>
 | Course/Week | File Link | Date Added | Type | Description |
