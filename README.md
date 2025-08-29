@@ -353,7 +353,7 @@ NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - Ap
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
 | <a name="701Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
-| | [Tavani, H. T. (2024). Chapter 1: Introduction to Cyberethics: Concepts, Perspectives, and Methodological Frameworks. In Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing (5th ed.). Wiley. ](https://github.com/tzucker02/course_material/blob/main/%5BTavani%5D%20Ethics-and-Technology_5th_ed%5B2015%5D.pdf) | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 1.1 | [Tavani, H. T. (2024). Chapter 1: Introduction to Cyberethics: Concepts, Perspectives, and Methodological Frameworks.](https://github.com/tzucker02/course_material/blob/main/%5BTavani%5D%20Ethics-and-Technology_5th_ed%5B2015%5D.pdf) | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | <a name="701Week2">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
 | <a name="701Week3">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
 | <a name="701Week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX701 top)</a>](#course-links-for-dx701) |
