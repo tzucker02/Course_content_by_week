@@ -23,6 +23,9 @@ NOTE: Fall 2025 Semester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= January - Ap
 | Course/Week | Link | Date Added | Type | 
 |----------|---|---|---|
 | <a name="601Week1">Week 1</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
+| 1.4 | [Patterns, Predictions, and Actions, Chapter 1: Introduction](https://mlstory.org/introduction.html) | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 1.4 | [Patterns, Predictions, and Actions, Chapter 2: Fundamentals of Prediction](https://mlstory.org/prediction.html) | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
+| 1.4 | [Elementary Statistics, Chapter 1.1, Collecting Data (PDF).](https://alg.manifoldapp.org/system/actioncallout/0/5/3/053a1575-131e-4626-904c-884ca823cde2/attachment/e20ed4251d26feb80dc432bd0497cb68.pdf#page=[3]) | 2025-09 | <img src="https://github.com/user-attachments/assets/5e1448a3-2757-44c0-bdae-c4b8768b41d9" width = "20" height = "20" ></a>  |  |
 | <a name="601Week2">Week 2</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
 | <a name="601Week3">Week 3</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
 | <a name="601Week4">Week 4</a> | [<img src="https://image.pngaaa.com/286/1053286-middle.png" height = "25" width = "35">(Go to Course DX601 top)</a>](#course-links-for-dx601) |
