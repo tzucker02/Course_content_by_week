@@ -2,7 +2,7 @@
 # <img src="https://cdn-icons-png.freepik.com/256/12332/12332794.png?semt=ais_hybrid" width = "40" height = "40">Course  resources for Online Masters in Data Science degree at BU.  </a>
 Here, I have tried to list all the content from each course by each week. If I have left anything out, please let me know.
 
-<B>NOTE/UPDATE: I have given up doing this alone and it does not seem like there is a lot of interest in it anyway.  I found that it takes too much of my time, which I should be spending studying.</b>
+<B>NOTE/UPDATE: I have given up doing this alone and it does not seem like there is a lot of interest in it anyway.  I found that it takes too much of my time, which I should be spending studying. If you are still interested in comtinuing this, create a fork of the repo.</b>
 
 ## [I'm here by mistake! Take me to the profile page.](https://github.com/tzucker02)
 
